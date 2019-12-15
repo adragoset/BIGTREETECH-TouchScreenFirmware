@@ -33,7 +33,7 @@
 
 #define TOOL_NUM     1    // set in 1~6
 #define EXTRUDER_NUM 1    // set in 1~6
-#define FAN_NUM      1    // set in 1~6
+#define FAN_NUM      3    // set in 1~6
 
 //                       PLA      PETG       ABS     "CUSTOM1" "CUSTOM2"
 #define PREHEAT_BED      {55,      85,       100,       55,       55}
